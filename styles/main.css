@@ -1,0 +1,23 @@
+li {
+  display: inline-block;
+  float: left;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  padding: 0.5em;
+  width: 3em;
+  text-align: center; }
+
+li:last-child {
+  border-right: 1px solid black; }
+
+div {
+  border: 1px solid black;
+  clear: both;
+  margin: 0 2.5em;
+  padding: 0 5%; }
+
+li:hover {
+  background-color: black;
+  color: lightgrey; }
+
+/*# sourceMappingURL=main.css.map */
